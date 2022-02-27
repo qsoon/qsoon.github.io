@@ -17,49 +17,68 @@ a.uline {text-decoration:underline;}
 
 ## Education
 ---
-**In Progress**<br>
-Ph.D. in Knowledge<br>
-University<br>
-*Advisor: Prof. Albert Einstein*
+**In Progress (September 2020 - Current)**<br>
+Ph.D. in Statistics<br>
+Seoul National University<br>
+*Advisor: Prof. [Hee-Seok Oh](https://sites.google.com/site/heeseokoh)*<br>
 
-**1990-2010**<br>
-B.S. in Partying<br>
-School<br>
-*Advisor: Prof. Paul Dirac*
+**March 2014 - February 2020**<br>
+B.S. in Statistics<br>
+Seoul National University<br>
+GPA: 3.98 / 4.3 (total), 4.10 / 4.3 (major)<br>
+
+**March 2011 - February 2014**<br>
+Gyeonggi Science High School<br>
 
 ## Research experience
 ---
+**In Progress (September 2020 - Current)**<br>
+Ph.D. in Statistics<br>
+Seoul National University<br>
+*Advisor: Prof. [Hee-Seok Oh](https://sites.google.com/site/heeseokoh)*<br>
 
-**2015 - Present**<br>
-Position<br>
-I accomplished some things.<br>
-*Relevant Publications: <a href="../publications/publication1" class="uline">Name2 et al. 2016</a>*<br>
+**In Progress (February 2020 - July 2020)**<br>
+Research Scientist<br>
+Sentience Inc.<br>
 
-
-## Service and Outreach
----
-**2013 - Present**<br>
-Outreach<br>
+**September 2019 - February 2020**<br>
+Participant of Undergraduate Research Internship Program<br>
+Seoul National University<br>
+*Advisor: Prof. [Jaeyong Lee](https://jylee749.wordpress.com/)*<br>
 
 
 ## Publications
 ---
-**Name2** et al. "Title of paper 1", 2016.
-
-
-
-## Awards and Honors
----
-Best Jekyll Theme, *Spring 2018*<br>
+* **Kim, K.**,  et al. "Principal Component Analysis for River Network Data: Use of Spatio-temporal Correlation and Heterogeneous Covariance Structure", Submitted.<br>
 
 
 ## Talks and Presentations
 ---
-"Seminar 17", University Colloquium, *March 2018*
+* "Geum River Network Data Analysis via Weighted PCA", July 2021<br> 
+10th World Congress in Probability and Statistics<br>
+
+
+## Awards and Honors
+---
+* National Science & Technology Scholarship for all semesters at Seoul National University, 2014-2019<br> 
+
+* Top 30 teams in NAVER AI Vision Hackathon, 2018<br>
+ 
+* Army Chief of Staff Award in Ministry of Defense Start-up Challenge, 2018<br>
+
+* Bronze medal in Collegiate Mathematics Competition, 2014<br>
+
+* Silver medal in Korean Mathematics Olympiad, 2012<br>
 
 
 ## Teaching
 ---
-**Summer 1900**<br>
-Primary Instructor<br>
-*Quantum Field Theory 101*
+**Teaching Assistant**<br>
+* Statistical Consulting (326.517A), Spring 2022<br>
+* The World of Uncertainty and Statistics (046.003), Fall 2021<br>
+* Probability Concept and Applications (326.211), Spring 2021<br>
+* Statistical Computing and Lab. (326.212), Fall 2020<br>
+
+
+
+
