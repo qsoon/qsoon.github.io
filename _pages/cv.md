@@ -37,7 +37,7 @@ Ph.D. in Statistics<br>
 Seoul National University<br>
 *Advisor: Prof. [Hee-Seok Oh](https://sites.google.com/site/heeseokoh)*<br>
 
-**In Progress (February 2020 - July 2020)**<br>
+**February 2020 - July 2020**<br>
 Research Scientist<br>
 Sentience Inc.<br>
 
