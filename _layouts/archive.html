@@ -1,23 +1,26 @@
 ---
 layout: default
 ---
-<div class="wrapper">
-<div class="page">
 
-  <header class="post-header">
-    <h1 class="post-title">Posts in "{{ page.title | capitalize }}"</h1>
-  </header>
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
 
-  {% include page_divider.html %}
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
 
-  <article class="post-content">
-    <ul class="posts-list">
-      {% for post in page.posts %}
-      <li><strong><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></strong><span class="post-date"> - {{ post.date | date: "%B %-d, %Y" }}</span></li>
-      {% endfor %}
-    </ul>
-  </article>
+<div id="main" role="main">
+  {% include sidebar.html %}
 
+  <div class="archive">
+    {% unless page.header.overlay_color or page.header.overlay_image %}
+      <h1 id="page-title" class="page__title">{{ page.title }}</h1>
+    {% endunless %}
+    {{ content }}
+  </div>
 </div>
-</div>
-<br>
