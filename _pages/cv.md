@@ -75,11 +75,12 @@ Seoul National University<br>
 ---
 **Teaching Assistant**<br>
 * Statistical Consulting (326.517A), Spring 2022<br>
-* Statistical Prediction (Special lecture hosted by Statistical Research Inst. of Seoul National University), February 2022<br> 
 * The World of Uncertainty and Statistics (046.003), Fall 2021<br>
 * Probability Concept and Applications (326.211), Spring 2021<br>
 * Statistical Computing and Lab. (326.212), Fall 2020<br>
 
+**Lab Instructor**<br>
+* Statistical Prediction (Special lecture hosted by Statistical Research Inst. of Seoul National University), February 2022<br> 
 
 
 
