@@ -60,7 +60,7 @@ Seoul National University<br>
 
 ## Awards and Honors
 ---
-* National Science & Technology Scholarship for all semesters at Seoul National University, 2014-2019<br> 
+* National Science & Technology Scholarship for all semesters at Seoul National University, 2014-2017, 2019<br> 
 
 * Top 30 teams in NAVER AI Vision Hackathon, 2018<br>
  
