@@ -9,5 +9,5 @@ location: "Seoul, Korea"
 We apply flow-directed PCA to Geum River from South Korea. 
 
 
-#### Poster
+#### Slide
 <a href="../../files/Data_adaptive_flow_directed_PCA.pdf" class="uline">Click here to see the slide!</a>

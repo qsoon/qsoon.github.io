@@ -9,5 +9,5 @@ location: "Seoul, Korea"
 We summarize how to apply PCA on multiple group data.
 
 
-#### Poster
+#### Slide
 <a href="../../files/PCA_on_multiple_group_data.pdf" class="uline">Click here to see the slide!</a>
