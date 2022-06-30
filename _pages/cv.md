@@ -54,6 +54,10 @@ Seoul National University<br>
 
 ## Talks and Presentations
 ---
+* "Principal Component Analysis for River Network Data: Use of Spatio-temporal Correlation and Heterogeneous Covariance Structure", June 2022<br> 
+Data Science, Statistics & Visualisation 2022 Conference,<br>
+Korean Statistical Society Conference 2022 Summer<br>
+
 * "Geum River Network Data Analysis via Weighted PCA", July 2021<br> 
 10th World Congress in Probability and Statistics<br>
 
