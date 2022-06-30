@@ -4,7 +4,7 @@ collection: talks
 type: "Slide"
 venue: "10th World Congress in Probability and Statistics"
 date: 2021-7-22
-location: "Seoul, Korea"
+location: "SNU (Virtual), Seoul, Korea"
 ---
 We apply flow-directed PCA to Geum River from South Korea and suggest several limitations. 
 
