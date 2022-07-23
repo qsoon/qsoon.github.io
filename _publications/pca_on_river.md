@@ -2,8 +2,8 @@
 title: "Principal Component Analysis for River Network Data: Use of Spatio-temporal Correlation and Heterogeneous Covariance Structure"
 collection: publications
 excerpt: "We performed a PCA on River Network Data."
-date: 2022-3-1
-venue: ''
+date: 2022-7-23
+venue: 'Environmetrics'
 classes: wide
 publ: "false"
 ---

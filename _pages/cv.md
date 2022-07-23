@@ -49,7 +49,7 @@ Seoul National University<br>
 
 ## Publications
 ---
-* **Kyusoon Kim**, Minsu Park and Hee-Seok Oh. "Principal Component Analysis for River Network Data: Use of Spatio-temporal Correlation and Heterogeneous Covariance Structure", Submitted.<br>
+* **Kyusoon Kim**, Minsu Park and Hee-Seok Oh. "Principal Component Analysis for River Network Data: Use of Spatio-temporal Correlation and Heterogeneous Covariance Structure". *Environmetrics*. Accepted for publication.<br>
 
 
 ## Talks and Presentations
@@ -86,7 +86,8 @@ Korean Statistical Society Conference 2022 Summer<br>
 * Statistical Computing and Lab. (326.212), Fall 2020<br>
 
 **Lab Instructor**<br>
-* Statistical Prediction (Special lecture hosted by Statistical Research Inst. of Seoul National University), February 2022<br> 
+* Exploratory Data Analysis / Regression Analysis / Analysis of Variance (A lecture hosted by Statistical Research Inst. of Seoul National University), August 2022<br> 
+* Statistical Prediction (A special lecture hosted by Statistical Research Inst. of Seoul National University), February 2022<br> 
 
 
 

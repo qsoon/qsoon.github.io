@@ -10,4 +10,5 @@ location: "Seoul, Korea"
 Lab instructor experiences.
 
 ## Lab Instructor History
+* August 2022: Exploratory Data Analysis / Regression Analysis / Analysis of Variance
 * February 2022: Statistical Prediction

@@ -10,9 +10,8 @@ We propose a new PCA method for the domain of river networks.
 
 
 #### Poster
-<!--
 <a href="../../files/KSS2022_summer.pdf" class="uline">Click here to see the slide!</a>
--->
+
 
 
 #### Photos
