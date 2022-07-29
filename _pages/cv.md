@@ -64,6 +64,8 @@ Korean Statistical Society Conference 2022 Summer<br>
 
 ## Awards and Honors
 ---
+* Honorable Mention Award in Korean Statistical Society Conference 2022 Summer, 2022<br>
+
 * Excellent Teaching Assistant Award, 2021<br>
 
 * National Science & Technology Scholarship for all semesters at Seoul National University, 2014-2017, 2019<br> 
